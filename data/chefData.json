@@ -1,46 +1,47 @@
 [  
     {    
-        "id": 1,    "chefPicture": "https://example.com/chef1.jpg",
-        "chefName": "Farida Yasmin",
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/b6zX2BT/rafsan-haque.png",
+        "chefName": "Rafsan Haque",
         "experience": 12,
         "numberOfRecipes": 35,
         "likes": 1024,
-        "bio": "Farida Yasmin is a renowned chef from Dhaka, Bangladesh. She has been cooking Bangladeshi food for the past 12 years and has won numerous awards for her cooking. She loves to experiment with different ingredients and spices to create unique and flavorful dishes. In her free time, she enjoys gardening and spending time with her family."
+        "bio": "Rafsan Haque is a renowned chef from Dhaka, Bangladesh. he has been cooking Bangladeshi food for the past 12 years and has won numerous awards for her cooking. She loves to experiment with different ingredients and spices to create unique and flavorful dishes. In his free time, he enjoys gardening and spending time with his family."
     },
         
     {   
         "id": 2,
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://i.ibb.co/JzqvQQK/mohammad-rahman.png",
         "chefName": "Mohammed Rahman",
-        "experience": 15,
+        "experience": 11,
         "numberOfRecipes": 42,
         "likes": 1536,
-        "bio": "Mohammed Rahman is a passionate chef from Chittagong, Bangladesh. He has been cooking Bangladeshi food for the past 15 years and loves to share his recipes with others. He specializes in seafood dishes and is known for his signature spicy shrimp curry. In his free time, he enjoys fishing and exploring new ingredients."
+        "bio": "Mohammed Rahman is a passionate chef from Chittagong, Bangladesh. He has been cooking Bangladeshi food for the past 11 years and loves to share his recipes with others. He specializes in seafood dishes and is known for his signature spicy shrimp curry. In his free time, he enjoys fishing and exploring new ingredients."
         },
         
     {   
         "id": 3,
-        "chefPicture": "https://example.com/chef3.jpg",
-        "chefName": "Nazia Hossain",
+        "chefPicture": "https://i.ibb.co/ggbsYKf/tutul-hosssain.png",
+        "chefName": "Tutul Hossain",
         "experience": 10,
         "numberOfRecipes": 25,
-        "likes": 512,
-        "bio": "Nazia Hossain is a talented chef from Sylhet, Bangladesh. She has been cooking Bangladeshi food for the past 10 years and has a passion for creating healthy and nutritious dishes. She believes that food should not only taste good but also be good for you. In her free time, she enjoys hiking and exploring the outdoors."
+        "likes": 1123,
+        "bio": "Tutul Hossain is a talented chef from Sylhet, Bangladesh. He has been cooking Bangladeshi food for the past 10 years and has a passion for creating healthy and nutritious dishes. He believes that food should not only taste good but also be good for you. In her free time, he enjoys hiking and exploring the outdoors."
     },
 
     {   
         "id": 4,
-        "chefPicture": "https://example.com/chef4.jpg",
-        "chefName": "Rasheda Begum",
+        "chefPicture": "https://i.ibb.co/18KfTQy/jhankar-mahub.png",
+        "chefName": "Jhankar Mahbub",
         "experience": 8,
         "numberOfRecipes": 28,
         "likes": 512,
-        "bio": "Rasheda Begum is a talented chef from Rajshahi, Bangladesh. She has been cooking Bangladeshi food for the past 8 years and specializes in vegetarian and vegan dishes. She believes that plant-based food can be just as flavorful and satisfying as meat-based dishes. In her free time, she enjoys practicing yoga and meditation."
+        "bio": "Jhankar Mahbub is a highly accomplished chef from Dhaka, Bangladesh. He is widely renowned for his exceptional skills in cooking traditional Bangladeshi biryani dishes, and is considered an expert in this area. In addition to his culinary talents, Jhankar is also a prominent figure in the Bangladeshi web development community, serving as the CEO of Programming Hero and the senior most web developer in the country. He is deeply passionate about teaching programming and web development, and has inspired countless individuals to pursue careers in these fields."
     },
     
     {
         "id": 5,
-        "chefPicture": "https://example.com/chef5.jpg",
+        "chefPicture": "https://i.ibb.co/YdvjxrC/abdul-karim.png",
         "chefName": "Abdul Karim",
         "experience": 20,
         "numberOfRecipes": 60,
@@ -50,12 +51,12 @@
     
     {
         "id": 6,
-        "chefPicture": "https://example.com/chef6.jpg",
-        "chefName": "Tasnim Ahmed",
+        "chefPicture": "https://i.ibb.co/mSGQC3j/taskin-ahmed.png",
+        "chefName": "Taskin Ahmed",
         "experience": 5,
         "numberOfRecipes": 18,
         "likes": 256,
-        "bio": "Tasnim Ahmed is a rising star in the world of Bangladeshi cuisine. She has been cooking for the past 5 years and is known for her creative and innovative dishes. She loves to experiment with different ingredients and spices to create unique and flavorful dishes. In her free time, she enjoys reading and listening to music."
+        "bio": "Taskin Ahmed is a rising star in the world of Bangladeshi cuisine. He has been cooking for the past 5 years and is known for his creative and innovative dishes. He loves to experiment with different ingredients and spices to create unique and flavorful dishes. In his free time, he enjoys reading and listening to music."
     }
     
 ]
