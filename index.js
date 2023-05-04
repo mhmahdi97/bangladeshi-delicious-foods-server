@@ -11,18 +11,28 @@ app.use(cors());
 const chefs = require('./data/chefData.json');
 const recipes = require('./data/recipeData.json');
 
-// creating api
+// sending main server message
 app.get('/', (req, res)=> {
     res.send('chef recipe hunter server')
 })
 
-
+// creating api for sending all chefs data 
 app.get('/chefs', (req, res) => {
     res.send(chefs)
 })
 
+// creating api for sending all recipes data
 app.get('/recipes', (req, res) => {
     res.send(recipes)
+})
+
+console.log(chefs)
+
+// creating api for sending selected chefs recipes
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedChefsRecipes = recipes.filter(chefRecipes => parseInt(chefRecipes.chefId) === id);
+    res.send(selectedChefsRecipes);
 })
 
 

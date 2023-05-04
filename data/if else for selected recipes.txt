@@ -1,0 +1,7 @@
+    if (id === 0) {
+        res.send(chefs)
+    }
+    else{
+        const selectedChefsRecipes = recipes.filter(chefRecipes => (chefRecipes.chefId) === id);
+        res.send(selectedChefsRecipes);
+    }
