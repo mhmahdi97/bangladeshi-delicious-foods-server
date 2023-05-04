@@ -1,0 +1,146 @@
+[
+    {
+        "chefId": 1,
+        "recipeName": "Spicy Chicken Curry",
+        "ingredients": "chicken, onion, tomato, garlic, ginger, green chili, coriander, cumin, turmeric, red chili powder, salt, oil",
+        "cookingMethod": "1. Heat oil in a pan. Add onion, garlic, and ginger, and sauté until onion turns golden brown. Add tomato, green chili, coriander, cumin, turmeric, red chili powder, and salt. Cook until tomato turns soft. Add chicken and cook for 10-15 minutes, stirring occasionally. Garnish with coriander leaves and serve hot.",
+        "rating": 4.5
+    },
+    
+    {
+        "chefId": 1,
+        "recipeName": "Bengali Fish Curry",
+        "ingredients": "fish, onion, tomato, garlic, ginger, green chili, coriander, cumin, turmeric, red chili powder, salt, oil",
+        "cookingMethod": "1. Heat oil in a pan. Add onion, garlic, and ginger, and sauté until onion turns golden brown. Add tomato, green chili, coriander, cumin, turmeric, red chili powder, and salt. Cook until tomato turns soft. Add fish and cook for 10-15 minutes, stirring occasionally.\n4. Garnish with coriander leaves and serve hot.",
+        "rating": 4.8
+    },
+    
+    {
+        "chefId": 1,
+        "recipeName": "Mango Lassi",
+        "ingredients": "mango, yogurt, milk, sugar, cardamom, ice",
+        "cookingMethod": "1. Blend together mango, yogurt, milk, sugar, cardamom, and ice until smooth. Serve chilled.",
+        "rating": 4.2
+    },
+
+    {
+        "chefId": 2,
+        "recipeName": "Spicy Shrimp Curry",
+        "ingredients": "1 lb shrimp, 1 onion, 2 tomatoes, 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1/2 tsp red chili powder, salt to taste, 2 tbsp oil",
+        "cookingMethod": "1. Heat oil in a pan and sauté onions till golden brown. 2. Add ginger and garlic paste and sauté for a minute. 3. Add chopped tomatoes and cook for 5 minutes till they turn mushy. 4. Add all the spices and salt and cook for a minute. 5. Add shrimp and cook for 5 minutes till they turn pink. 6. Serve hot with rice.",
+        "rating": 4.5
+    },
+    
+    {
+        "chefId": 2,
+        "recipeName": "Chicken Korma",
+        "ingredients": "1 lb chicken, 1 onion, 2 tomatoes, 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1/2 tsp red chili powder, salt to taste, 2 tbsp oil",
+        "cookingMethod": "1. Heat oil in a pan and sauté onions till golden brown. 2. Add ginger and garlic paste and sauté for a minute. 3. Add chopped tomatoes and cook for 5 minutes till they turn mushy. 4. Add all the spices and salt and cook for a minute. 5. Add chicken and cook for 10-15 minutes till it is cooked through. 6. Serve hot with naan or rice.",
+        "rating": 4.8
+    },
+    
+    {
+        "chefId": 2,
+        "recipeName": "Fish Curry",
+        "ingredients": "1 lb fish, 1 onion, 2 tomatoes, 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1/2 tsp red chili powder, salt to taste, 2 tbsp oil",
+        "cookingMethod": "1. Heat oil in a pan and sauté onions till golden brown. 2. Add ginger and garlic paste and sauté for a minute. 3. Add chopped tomatoes and cook for 5 minutes till they turn mushy. 4. Add all the spices and salt and cook for a minute. 5. Add fish and cook for 10-15 minutes till it is cooked through. 6. Serve hot with rice.",
+        "rating": 4.2
+    },
+
+    {
+        "chefId": 3,
+        "recipeName": "Chicken Curry",
+        "ingredients": "1 lb chicken, 1 onion, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin powder, 1 tsp coriander powder, salt to taste",
+        "cookingMethod": "1. Cut the chicken into small pieces and set aside. Grind the onion, garlic, ginger, and green chilies into a paste. Heat oil in a pan and add the onion paste. Cook for 2-3 minutes until fragrant. Add the chicken and cook for 5-7 minutes until the chicken is browned. Add cumin powder, coriander powder, and salt to taste. Add enough water to cover the chicken and bring to a boil. Reduce heat to low and let the curry simmer for 20-25 minutes until the chicken is cooked through. Serve hot with rice or naan.",
+        "rating": 4.5
+    },
+  
+    {
+        "chefId": 3,
+        "recipeName": "Dal Fry",
+        "ingredients": "1 cup red lentils, 1 onion, 2 cloves garlic, 1 inch ginger, 1 tsp cumin seeds, 1 tsp turmeric powder, salt to taste",
+        "cookingMethod": "1. Wash the lentils and soak in water for 30 minutes. In a pot, heat oil and add cumin seeds. Cook until they splutter. Add the onion, garlic, and ginger and cook for 2-3 minutes until softened. Add the lentils and enough water to cover them. Add turmeric powder and salt to taste. Bring to a boil, then reduce heat to low and let simmer for 20-25 minutes until the lentils are cooked through. Serve hot with rice or naan.",
+        "rating": 4.0
+    },
+  
+    {
+        "chefId": 3,
+        "recipeName": "Beef Bhuna",
+        "ingredients": "1 lb beef, 1 onion, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin powder, 1 tsp coriander powder, salt to taste",
+        "cookingMethod": "1. Cut the beef into small pieces and set aside. Grind the onion, garlic, ginger, and green chilies into a paste. Heat oil in a pan and add the onion paste. Cook for 2-3 minutes until fragrant. Add the beef and cook for 5-7 minutes until browned. Add cumin powder, coriander powder, and salt to taste. Add enough water to cover the beef and bring to a boil. Reduce heat to low and let the bhuna simmer for 40-45 minutes until the beef is tender. Serve hot with rice or naan.",
+        "rating": 4.2
+    },
+
+    {
+        "chefId": 4,
+        "recipeName": "Lentil Soup",
+        "ingredients": "1 cup red lentils, 1 onion, 2 cloves garlic, 1 inch ginger, 1 tsp cumin powder, 1 tsp coriander powder, salt to taste",
+        "cookingMethod": "1. Rinse the lentils and set aside. Grind the onion, garlic, and ginger into a paste. Heat oil in a pot and add the onion paste. Cook for 2-3 minutes until fragrant. Add the lentils and cook for 2-3 minutes until they start to soften. Add cumin powder, coriander powder, and salt to taste. Add enough water to cover the lentils and bring to a boil. Reduce heat to low and let the soup simmer for 20-25 minutes until the lentils are cooked through. Serve hot with bread or rice.",
+        "rating": 4.5
+    },
+
+    {
+        "chefId": 4,
+        "recipeName": "Chicken Biriyani",
+        "ingredients": "1 lb chicken, 2 cups basmati rice, 1 onion, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin powder, 1 tsp coriander powder, salt to taste",
+        "cookingMethod": "1. Rinse the rice and soak for 30 minutes. Cut the chicken into bite-sized pieces and set aside. Grind the onion, garlic, ginger, and green chilies into a paste. Heat oil in a pot and add the onion paste. Cook for 2-3 minutes until fragrant. Add the chicken and cook for 5-7 minutes until browned. Add cumin powder, coriander powder, and salt to taste. Add enough water to cover the chicken and bring to a boil. Drain the soaked rice and add to the pot. Stir well and cover the pot. Cook on low heat for 20-25 minutes until the rice is cooked through and the chicken is tender. Serve",
+        "rating": 4.8
+    },
+
+    {
+        "chefId": 4,
+        "recipeName": "Prawn Masala",
+        "ingredients": "1 lb prawns, 1 onion, 1 tomato, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp turmeric powder, 1 tsp chili powder, salt to taste",
+        "cookingMethod": "1. Clean and devein the prawns. Set them aside. Heat oil in a pan and add chopped onions. Fry until the onions turn golden brown. Add chopped tomatoes and fry until they are soft. Add ginger and garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt to taste. Mix well. Add the prawns to the pan and cook for 5-6 minutes until they are fully cooked and turn pink. Serve hot with rice or naan.",
+        "rating": 4.5
+    },
+
+    {
+        "chefId": 5,
+        "recipeName": "Chicken Roast",
+        "ingredients": "1 lb chicken, 1 onion, 1 tomato, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp turmeric powder, 1 tsp chili powder, salt to taste",
+        "cookingMethod": "1. Preheat the oven to 400°F. Mix all the spices and salt together in a bowl. Clean and cut the chicken into small pieces. Rub the spice mixture onto the chicken pieces. Grease a baking dish with oil. Arrange the chicken pieces in the baking dish. Bake for 25-30 minutes until the chicken is cooked through and the skin is crispy. Serve hot with salad and bread.",
+        "rating": 4.7
+    },
+
+   {
+        "chefId": 5,
+        "recipeName": "Beef Curry",
+        "ingredients": "1 lb beef, 1 onion, 1 tomato, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp turmeric powder, 1 tsp chili powder, salt to taste",
+        "cookingMethod": "1. Cut the beef into bite-sized pieces. Heat oil in a pan and add chopped onions. Fry until the onions turn golden brown. Add chopped tomatoes and fry until they are soft. Add ginger and garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt to taste. Mix well. Add the beef to the pan and cook for 30-40 minutes until it is tender and cooked through. Serve hot with rice or naan.",
+        "rating": 4.6
+    },
+
+    {
+        "chefId": 5,
+        "recipeName": "Prawn Stir-Fry",
+        "ingredients": "1 lb prawns, 2 tbsp oil, 1 onion, 2 garlic cloves, 1 inch ginger, 1 green bell pepper, 1 red bell pepper, 1/2 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp cumin powder, salt to taste",
+        "cookingMethod": "1. Heat oil in a pan and add chopped onions, garlic, and ginger. Fry until the onions turn golden brown. Add chopped bell peppers and fry for a minute. Add turmeric powder, red chili powder, coriander powder, cumin powder, and salt to taste. Mix well. Add the prawns and stir-fry for 3-4 minutes until they are cooked through. Serve hot with rice or naan.",
+        "rating": 4.5
+    },
+
+    {
+        "chefId": 6,
+        "recipeName": "Bhuna Khichuri",
+        "ingredients": "1 cup basmati rice, 1/2 cup yellow lentils, 1 onion, chopped, 2 cloves garlic, minced, 1 tsp ginger paste",
+        "cookingMethod": "In a pot, sauté onions, garlic, and ginger paste until fragrant. Add rice and lentils and sauté for a few minutes. Add water and bring to a boil. Reduce heat and simmer until rice and lentils are cooked. Serve hot with a dollop of ghee.",
+        "rating": 4.5
+    },
+  
+    {
+        "chefId": 6,
+        "recipeName": "Chicken Rezala",
+        "ingredients": "1 lb chicken, cut into pieces, 1 onion, sliced, 2 cloves garlic, minced, 1 inch ginger, grated, 1 cup yogurt",
+        "cookingMethod": "In a pan, sauté onions, garlic, and ginger until fragrant. Add chicken and cook until browned. Add yogurt and simmer until chicken is cooked. Serve hot with rice or naan.",
+        "rating": 4.8
+    },
+  
+    {
+        "chefId": 6,
+        "recipeName": "Fuchka",
+        "ingredients": "1 cup semolina, 1/2 cup all-purpose flour, 1/2 tsp baking powder, 1/2 tsp salt, 1/2 cup water",
+        "cookingMethod": "Mix semolina, flour, baking powder, and salt in a bowl. Add water and knead into a dough. Roll out the dough and cut into small circles. Deep fry the circles until crispy. Stuff with boiled potatoes, chickpeas, tamarind chutney, and spices.",
+        "rating": 4.2
+  }
+
+]
