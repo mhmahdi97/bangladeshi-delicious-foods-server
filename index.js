@@ -28,8 +28,15 @@ app.get('/recipes', (req, res) => {
 
 console.log(chefs)
 
-// creating api for sending selected chefs recipes
+// creating api for sending selected chef
 app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedChef = chefs.find(chef => parseInt(chef.id) === id);
+    res.send(selectedChef);
+})
+
+// creating api for sending selected chef's recipes data
+app.get('/recipes/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const selectedChefsRecipes = recipes.filter(chefRecipes => parseInt(chefRecipes.chefId) === id);
     res.send(selectedChefsRecipes);
